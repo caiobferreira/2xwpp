@@ -1,0 +1,9 @@
+.twoTimesButton{
+    color:gray;
+    font-size: 1rem;
+    font-weight: bold;
+    background-color: transparent;
+    border:none;
+    position: flex;
+    padding: flex;
+}
